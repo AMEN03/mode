@@ -1,0 +1,81 @@
+    1  ls
+    2  git --version
+    3  git config --global user.name "AMEN03"
+    4  git config --global user.email "maureste94@gmail.com"
+    5  git config --global user.email
+    6  git init
+    7  ls -al
+    8  git status
+    9  git log
+   10  git status
+   11  git add .
+   12  git status
+   13  git commit -m "Ajout d'un fichier GITHUB.PDF"
+   14  git remote add origin https://github.com/AMEN03/workspace-web.git
+   15  git
+   16  git status
+   17  git push -u origin main
+   18  git branch AMEN03
+   19  git checkout AMEN03
+   20  git status
+   21  git push -u origin AMEB03
+   22  git branch AMEN03
+   23  git checkout AMEN03
+   24  clear
+   25  git init
+   26  git ckeckout -b AMEN03
+   27  CLEAR
+   28  git init
+   29  history
+   30  clear
+   31  git init
+   32  git checkout -b AMEN03
+   33  history
+   34  history >command.txt
+   35  git add .
+   36  git commit -m "Ajout du fichier command.txt"
+   37  git log
+   38  git remote add origin https://github.com/AMEN03/workspace-web.git
+   39  git status
+   40  git push -u origin AMEN03
+   41  git init
+   42  git init
+   43  git config --global user.name "HOUNGBANDAN MAURESTE"
+   44  git config --global user.email "mauresteh@gmail.com"
+   45  git config --global user.name"HOUNGBANDAN MAURESTE"
+   46  git init
+   47  git branch blessing
+   48  git chekcout -b blessing
+   49  git branch "blessing"
+   50  git init
+   51  git checkout -b "AMEN03"
+   52  history
+   53  history >command.txt
+   54  git add .
+   55  git commit -m "ajout du fichier du command.txt"
+   56  git log
+   57  git remote add origin https://github.com/AMEN03/blessing.git
+   58  git push -u origin "AMEN03"
+   59  git log
+   60  git status
+   61  git add .
+   62  git checkout -b "AMEN03"
+   63  clear
+   64  git init
+   65  git branch mode
+   66  git branch "mode"
+   67  git chekcout -b mode
+   68  git --help
+   69  clear
+   70  git init
+   71  git chekcout -b "AMEN03"
+   72  git chekcout -b "mode""
+   73  history>command.txt
+   74  git commit -m "Ajout du fichier txt"
+   75  git log
+   76  clear
+   77  clear
+   78  git init
+   79  git chekcout -b "mode"
+   80  history
+   81  history>command.txt
