@@ -79,3 +79,19 @@
    79  git chekcout -b "mode"
    80  history
    81  history>command.txt
+   82  git add .
+   83  git commit -m "Ajout du fichier txt"
+   84  git log
+   85  git remote add origin https://github.com/AMEN03/mode.git
+   86  git push -u origin "mode"
+   87  git push -u origin "mode"
+   88  git remote add origin https://github.com/AMEN03/mode.git
+   89  git push -u origin "mode"
+   90  git push -u origin mode
+   91  git push -u origin master "mode"
+   92  git push -u origin "AMEN03"
+   93  clear
+   94  git init
+   95  git chekcout -b "AMEN03"
+   96  history
+   97  history>command.txt
